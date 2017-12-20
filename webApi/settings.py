@@ -40,6 +40,7 @@ INSTALLED_APPS = [
     'django.contrib.sites',
     'web',
     'rest_framework',
+    'tasks',
 ]
 
 MIDDLEWARE = [
