@@ -7,7 +7,7 @@ django-appconf==1.0.2
 django-avatar==4.0.1
 django-bower==5.2.0
 idna==2.6
-Jinja2==2.9.6
+Jinja2==2.11.3
 MarkupSafe==1.0
 oauthlib==2.0.6
 olefile==0.44
